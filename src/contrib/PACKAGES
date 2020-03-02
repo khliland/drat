@@ -1,7 +1,6 @@
-Package: drat
-Version: 0.0.4
-Suggests: git2r, knitr
+Package: microcontax.data
+Version: 1.0.3
+Depends: R (>= 3.0.2), microcontax
 License: GPL (>= 2)
-MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
+MD5sum: 171a34d14019433afec0efb263bda76d
 NeedsCompilation: no
-
